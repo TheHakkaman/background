@@ -1,3 +1,1 @@
-<a href="background.png">
-  <img src="background.png" max-width: 100%; height: auto;>
- </a>
+![alt text](https://github.com/TheHakkaman/background/blob/main/background.png?raw=true)
